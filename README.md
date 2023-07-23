@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Alan Luo. I co-founded [Dark Forest](https://twitter.com/darkforest_eth).
+
+- I'm currently looking for games industry opportunities in **tech art**, **gameplay programming**, **tech design**, and **UI engineering**.
 <!--
 **cosmicpoi/cosmicpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
