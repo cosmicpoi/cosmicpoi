@@ -3,8 +3,8 @@
 I'm Faith Luo. I co-founded [Dark Forest](https://twitter.com/darkforest_eth).
 
 - I've written open-source code that's gathered hundreds of stars on Github.
-- I've worked a variety of roles in research, tech, games, and even finance
-- I like writing cross-platform, robust code
+- I've worked a variety of roles in research, tech, games, and even finance.
+- I like writing cross-platform, robust code.
 <!--
 **cosmicpoi/cosmicpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
