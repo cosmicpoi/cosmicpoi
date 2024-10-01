@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Faith Luo. I co-founded [Dark Forest](https://twitter.com/darkforest_eth).
+I co-founded [Dark Forest](https://twitter.com/darkforest_eth).
 
 - I've written open-source code that's gathered hundreds of stars on Github.
 - I've worked a variety of roles in research, tech, games, and even finance.
